@@ -69,10 +69,10 @@ footer {
 }
 .title-cards{
 	width: 100%;
-	max-width: 1080px;
+	max-width: 80%;
 	margin: auto;
-	padding: 20px;
-	margin-top: 20px;
+	padding: 1px;
+	margin-top: 1px;
 	text-align: center;
 	color: #7a7a7a;
 }
@@ -113,14 +113,14 @@ footer {
 	padding: 10px;
 	margin-top: 10px;
 	text-decoration: none;
-	color: #2fb4cc;
-	border: 1px solid #2fb4cc;
+	color: #bc0613;
+	border: 1px solid #bc0613;
 	border-radius: 4px;
 	transition: all 400ms ease;
 	margin-bottom: 5px;
 }
 .card .contenido-card a:hover{
-	background: #2fb4cc;
+	background: #bc0613;
 	color: #fff;
 }
 @media only screen and (min-width:320px) and (max-width:768px){
